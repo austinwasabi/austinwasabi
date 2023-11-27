@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austinwasabi
 - 👀 I’m interested in data anlytics, finance, machine learning and deep learning in enterprise risk mitigation
-- 🌱 I’m currently learning Actuarial Science and Data Science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything easy, i am still a beginner
 - 📫 How to reach me HMU on augustine26ledwaba@gmail.com
 
